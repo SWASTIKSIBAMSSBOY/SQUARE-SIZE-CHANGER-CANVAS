@@ -1,0 +1,38 @@
+.header
+{
+	background-color:lightblue;
+	border-radius: 30px;
+	font-family: 'Square Peg', cursive;
+	font-weight: bold;
+	margin: 0px;
+	padding-bottom: 10px;
+	box-shadow: 2px 3px 4px #5eff00;
+}
+.notes
+{
+	color: whitesmoke;
+	font-size: 20px;
+}
+#square_side
+{
+	margin-top: 10px;
+}
+.maker
+{
+	font-family: 'My Soul', cursive;
+	font-weight: bold;
+	font-size: 30px;
+	bottom: 0;
+	position: fixed;
+	text-align: center;
+	color: green;
+	background-color: #00ffee;
+	width: 100%;
+}
+canvas
+{
+	border: 3px solid #00ff99;
+	border-radius: 30px;
+	border-color: #000000;
+	box-shadow: 8px 8px 8px #fc3232;
+}
